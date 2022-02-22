@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamacion, set furthe by the Kynges Maiestie, with the aduise of his highnes most honorable priuie counsail, in the v. yere of his highnes most prosperous reigne, for the prices of victualles</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1551</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21534</idno>
+            <idno type="STC">STC 7843</idno>
+            <idno type="STC">ESTC S3861</idno>
+            <idno type="EEBO-CITATION">33151095</idno>
+            <idno type="OCLC">ocm 33151095</idno>
+            <idno type="VID">28921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28921)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamacion, set furthe by the Kynges Maiestie, with the aduise of his highnes most honorable priuie counsail, in the v. yere of his highnes most prosperous reigne, for the prices of victualles</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+                  <author>Edward VI, King of England, 1537-1553.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Grafton typographus Regius excudebat,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M. D. LI. [1551]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Contains woodcut initial.</note>
+                  <note>"Cum priuilegio ad imprimendum solum."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Food prices --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Prices --  Government policy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Edward VI, 1547-1553.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28921:1"/>
+            <pb facs="tcp:28921:1"/>
+            <head>¶ A proclamacion ſet furthe by the kynges maieſtie, wyth the aduiſe of his highnes moſt honorable priuie counſail, in the .v. yere of his highnes moſt proſperous reigne, for the prices of victualles.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Herby an acte of Parliament holden at Weſtminſter vpon prorogaci<g ref="char:EOLhyphen"/>on the .xxv. day of Ianuary, in the .xxv. yeere of the reigne of the mooſte noble Prince of worthy memory king Henry the, viii. it was enacted a<g ref="char:EOLhyphen"/>mongeſt other thinges, that vpon complaintes made of enhaunſing of prices of victualles neceſſary for mens ſuſtenance, in any parte of this realme, or in any other of the kinges dominions. The lord Chauncelor of Englande, the Lorde Threaſorer, the Lorde Preſident of the kinges counſail, the lord Priuie Seale, the lorde Stuarde, the Lorde Chaum<g ref="char:EOLhyphen"/>berleine, &amp; al other lordes of the kinges counſail, the Treaſorer and Comptroller of the Kinges houſe, The Chauncellor of the Duchie of Lancaſter, the kinges Iuſtices of either Benche, the Chauncellor Chamberleines, vnder Treaſorer and the Barons of the kinges Exchequer, or .vii. of theym, wherof the lord Chauncelor, the lord Treaſorer, the lord Preſide<g ref="char:cmbAbbrStroke">̄</g>t of the kinges counſail, or the lord priuie Seale, to be one, ſhould haue power &amp; aucthorite, from time to time, as the caſe ſhoulde require, to ſet &amp; taxe reaſo<g ref="char:EOLhyphen"/>nable prices of al kinde of victualles neceſſary for mans ſuſtenaunce, how they ſhoulde be ſold in groſſe or by retaile. And that after ſuch prices ſet and taxed in fourme aforeſaid, Proclamation ſhould be made in the kinges name vnder the great ſeale, of the ſaid prices, &amp; that al Fermors, Owners, Broggers, &amp; o<g ref="char:EOLhyphen"/>ther victuallers hauing or keping any kind of victual to thintent to ſel, ſhal ſel the ſame to ſuch the kin<g ref="char:EOLhyphen"/>ges ſubiectes as wil buy them, at ſuch prices as ſhalbe ſet and taxed by the ſaid proclamation, vpon the paynes to be expreſſed and limited in the ſaid Proclamation, to be loſſed, forfaited and leuied to the kin<g ref="char:EOLhyphen"/>ges vſe, in ſuche wiſe, as in the ſayde proclamation ſhoulde be declared, as in the ſaide act more at large amongeſt other thinges appereth. Wherfore, vpon diuerſe good and pitiful complaintes, made of the greate and exceſſiue prices of victualles neceſſary for mans ſuſtenaunce, the Lorde Chaunceler of En<g ref="char:EOLhyphen"/>gland, the Lorde Treaſorer, the lorde priuie Seale, and other of the kinges moſte honorable counſail, to the number expreſſed in the ſaide acte, by vertue and aucthoritee of the ſaid acte, aſſembled at Windeſore together the .xxx. day of Auguſt laſt paſt, after deliberate conſultation therof, haue ſet and taxed prices of certeine victualles in forme folowing.</p>
+            <p>Firſt, that the greateſt leane Oxe, ſhal not be ſolde aboue the ſome of .xl. s<g ref="char:cmbAbbrStroke">̄</g>. Item the leane Oxe, of the ſecond ſorte, not to be ſolde aboue the ſumme of .xxxiii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> The leane Oxe of the thirde ſort, not to be ſolde aboue the ſumme of .xxvi. s<g ref="char:cmbAbbrStroke">̄</g>. viii. <abbr>d.</abbr> The beſt, greateſt, and fatteſt Oxe, ſhall not be ſolde aboue the ſumme of .liii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> The fatte Oxe of the ſecond ſorte, ſhal not be ſolde aboue the Summe of .xliii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> The fatte Oxe of the thirde ſorte ſhal not be ſolde aboue the ſumme of .xxxiii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> The leane Shepe of the greateſt ſorte, not to be ſolde aboue the ſumme of .iii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> The leane Shepe of the ſe<g ref="char:EOLhyphen"/>conde ſorte, not to be ſolde aboue the ſumme of .ii. s<g ref="char:cmbAbbrStroke">̄</g>. viii. <abbr>d.</abbr> The leane ſhepe of the thirde ſorte, not to bee ſold aboue the ſumme of .ii. s<g ref="char:cmbAbbrStroke">̄</g>. The fat ſhepe of the greteſt ſort, ſhal not be ſold aboue the ſumme of .v. s<g ref="char:cmbAbbrStroke">̄</g>. The fat ſhepe of the ſecond ſorte, ſhal not be ſolde aboue the ſumme of .iiii. s<g ref="char:cmbAbbrStroke">̄</g>. The fatte ſhepe of the .iii. ſorte ſhal not be ſolde aboue the ſumme of .iii. s<g ref="char:cmbAbbrStroke">̄</g>. And that no Befe, nor Porke, be ſold raw, by retayle aboue the ſumme of peny half farthing the pounde. Nor Veale or Mutton rawe by retaile aboue peny halfpeny the pounde. And that no maner of perſon, ſhal ſel by retaile any great thick Eſſex cheſe aboue the rate of halfpeny half farding the pound, nor any other cheſe by retaile, aboue halfpeny farthing the pounde.</p>
+            <pb facs="tcp:28921:2"/>
+            <pb facs="tcp:28921:2"/>
+            <p> The Kynges moſt excellent maieſtie, moſt graciouſly tendering the common wealthe of this his realme, beſides diuerſe remedies alredy prouided, aſwel in Parliamentes as in other conſultacions, hath for remedic therof, of late, to his owne greate loſſe, abated, and decayed the valuation of his coyne by his ſeueral proclamations, thinking therby, the exceſſiue prices of al thinges, of good congruence ſhould conſequently fall and abate, as by naturall reaſon and equite neceſſarely it ought and ſhoulde. Neuertheleſſe, contrary to his graces expectacion, diuerſe vnſatiable and greedy perſonnes, in whoſe handes a greate parte of the victuall of this realme by regratinge reſteth, being voide of all charitable regarde and reſpect to the commo<g ref="char:cmbAbbrStroke">̄</g> wealth of their naturall countrey, for their owne wealth and filthy lu<g ref="char:EOLhyphen"/>cre, do not onely by their vndue, ſubtile and ſiniſtre practiſes continue their exceſſiue prices of all maner of victualles, but alſo aſmuche as in them lieth, dayly do inuent and ſtudy for the increaſe of the ſame, to the greate detriment and vtter vndoing of the greater parte of his louing ſubiectes being forced to fetch their neceſſary victual at their handes, whiche his maieſtie wil nor can in no wiſe ſuffer. And therfore graciouſly aſſenting and agreyng to the ſaide rates and prices, and intending to proclaime and publiſhe the ſame, moſt ſtraightly chargeth and commaundeth, that no perſon or perſones, from hencefurth do ſell or cauſe to be ſold, the greateſt leane Oxe, aboue the ſu<g ref="char:cmbAbbrStroke">̄</g>me of .xl. s<g ref="char:cmbAbbrStroke">̄</g>. vpon paine of forfeiture of .xx. markes of curraunt mony of this realme, for euery leane Oxe ſo by him ſolde. Nor any leane Oxe of the ſeconde ſorte, aboue the ſumme of xxxiii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> vpo<g ref="char:cmbAbbrStroke">̄</g> paine of forfeiture of .x. <abbr>l.</abbr> of like mony, for euery Oxe by him ſo ſolde. Nor any leane Oxe of the thirde ſorte, aboue the ſumme of .xxvi. s<g ref="char:cmbAbbrStroke">̄</g> viii. <abbr>d.</abbr> vpon peine of forfei<g ref="char:EOLhyphen"/>ture of vi. <abbr>l.</abbr> xiii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii, <abbr>d.</abbr> for euery Oxe ſo ſolde by him. Nor the greateſt, fatteſt and beſt Oxe, to be ſolde a<g ref="char:EOLhyphen"/>boue the ſumme of liii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii <abbr>d.</abbr> vpon peine of forfeiture of, xx. markes, for euery Oxe ſo by him ſold. Nor any fat Oxe of the ſeconde ſorte, to be ſolde aboue the ſumme of .xliii. s<g ref="char:cmbAbbrStroke">̄</g> iiii. <abbr>d</abbr>, vpon peine of forfeiture of .x poundes, for euery Oxe ſo ſolde. Nor any fat Oxe of the third ſorte, to be ſolde aboue the ſu<g ref="char:cmbAbbrStroke">̄</g>me of .xxxiii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> vpo<g ref="char:cmbAbbrStroke">̄</g> peine of forfeiture, for euery ſuch Oxe ſo ſolde .vi. <abbr>l.</abbr> xiii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> Nor ſhall ſel any leane ſhe<g ref="char:EOLhyphen"/>pe of the greateſt ſort, aboue the ſumme of .iii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> vpon peine of forfeiture of .iii. <abbr>l.</abbr> vi. s<g ref="char:cmbAbbrStroke">̄</g>. viii <abbr>d.</abbr> for eue<g ref="char:EOLhyphen"/>ry ſuche ſhepe ſo ſolde. Nor any leane ſhepe of the ſeconde ſorte, aboue the ſome of .ii, s<g ref="char:cmbAbbrStroke">̄</g>. viii. <abbr>d.</abbr> vpon pain of forfeiture of .liii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d</abbr>, for euery ſhepe ſo ſolde. Nor any leane ſhepe of the thirde ſorte, aboue the ſome of .ii. s<g ref="char:cmbAbbrStroke">̄</g>. vpon payne of forfeiture of .xl. s<g ref="char:cmbAbbrStroke">̄</g>. for euery ſhepe ſo ſolde. Nor ſhall ſell any fat ſheepe of the greateſt ſorte, aboue the ſumme of fiue ſhillinges, vpo<g ref="char:cmbAbbrStroke">̄</g> peine of forfeiture of .iii. <abbr>l.</abbr> vi. s<g ref="char:cmbAbbrStroke">̄</g>. viii. <abbr>d.</abbr> for euery ſhepe ſo ſolde. Nor any fat ſhepe of the ſecond or meane ſorte, aboue the price of .iiii. s<g ref="char:cmbAbbrStroke">̄</g>, vpon peine of forfeiture for euery fat ſheepe ſo ſolde .liii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> nor any fat ſhepe of the thirde ſorte, aboue the ſumme of .iii. s<g ref="char:cmbAbbrStroke">̄</g>. vpon peine of forfeiture of .xl. s<g ref="char:cmbAbbrStroke">̄</g>. for euery ſhepe ſo to be ſolde.</p>
+            <p>And that no Butcher nor other perſone ſhal ſel any raw Befe or Porke by retaile, aboue the Rate and ſumme of penny halfe fardyng the pounde, vpon peine of forfeiture of vi. s<g ref="char:cmbAbbrStroke">̄</g>. viii. <abbr>d.</abbr> for euery pounde ſo ſolde, nor ſhall ſel veale or Mutton raw by retaile, aboue .i. <abbr>d.</abbr> ob. the pounde, vpon payne of forfaiture of .vi. s<g ref="char:cmbAbbrStroke">̄</g>. viii. <abbr>d.</abbr> for euery pounde ſo ſolde.</p>
+            <p>And that no maner of perſone, ſhall ſell by retaile any greate thicke Eſſex cheſe aboue the rate of .ob. di. <expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan>. the pounde, vpon peine of forfeiture of ii. s<g ref="char:cmbAbbrStroke">̄</g>. for euery pounde ſo ſolde, nor any other cheſe, by retaile aboue .ob. <choice>
+                  <abbr>q</abbr>
+                  <expan>farthing</expan>
+               </choice>. the pounde, vpon peine of forfeiture of .ii. s<g ref="char:cmbAbbrStroke">̄</g>. for euery pounde, ſo to be ſolde: The ſame ſum<g ref="char:EOLhyphen"/>mes and forfeitures, to be leuied to the kynges vſe, in forme folowinge. That is to ſay, by byll, plaint, information, or accion of debt, to be taken before his Iuſtices of peace, in their Seſſion, in any Coun<g ref="char:EOLhyphen"/>tie, Citie, or toune corporate, where any ſuch offence ſhalbe done, or in any other his courtes of Recorde, wherin no protection, eſſoyne or wager of law, ſhalbe allowed for the defendaunt: the one moite of al ſuch
+<pb facs="tcp:28921:3"/>
+               <pb facs="tcp:28921:3"/>forfeit or forfeitures to be to the vſe of his maieſtie &amp; the other moyte therof to y<hi rend="sup">t</hi> vſe of him or theym that ſhal firſt ſue and purſue the ſame with effect. And that euery perſone and perſones, that haue reared, or ſhall reare or kepe, or haue fatted or ſhal fat or kepe any ſuche cattall, or ſhepe, to thintent to ſel the ſame, ſhal vpon requeſt made, ſel the ſame at the price aforſaide, vpon payne of forfaiture for euery ſuch refuſal twentie poundes, the ſame to be recouered and leuied in forme aforeſaide, and to ſuffer impriſonment at the kinges wil and pleaſure.</p>
+            <p>His highnes alſo ſtreightly chargeth and commaundeth, al and euery his Iuſtices of peace immediat<g ref="char:EOLhyphen"/>ly after this proclamation publiſhed and proclaymed, to aſſemble themſelues, and to take order, by deui<g ref="char:EOLhyphen"/>ſion, or otherwiſe, for the good and perfect execution of this proclamation. And doeth further ſignifye to his ſayde Iuſtices, that as he wil wel conſider and aduance their diligence, and wel doyng in the premiſ<g ref="char:EOLhyphen"/>ſes: So wil he ſeuerely and ſharply puniſhe their negligence in contrary doynges.</p>
+            <p>And for the better effect, ſequele, and ſucceſſe of this proclamation, his highnes by thaduiſe of his moſt honorable counſail, hathe determined to addreſſe, his ſpecial comiſſioners for the hearing and examinati<g ref="char:EOLhyphen"/>on of the defaultes &amp; negligent doinges of his ſaid Iuſtices in the premiſſes, yf any hap to be ſo, as hys highnes may procede to the correction and puniſhment of ſuche Iuſtices offendors, as the importaunce of the caſe ſhal require</p>
+            <p>His maieſtee alſo ſtraightly chargeth and commaundeth al and euery his louing ſubiectes, that they ne any of them from hencefurth attempt to take from any owner, any cattail or victuall afore mentioned againſt the wil of ſuche owner, otherwiſe the<g ref="char:cmbAbbrStroke">̄</g> is aforeſaide, or by the deliuery of the Iuſtices of the peace or ſome of theym, vpon paine of loſſe of al their goodes and cattals, and to ſuffer impriſonment during the kinges pleaſor.</p>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="colophon">
+            <p>RICHARDVS GRAFTON typographus Regius excudebat.</p>
+            <p>M.D.LI.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio ad imprimendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
